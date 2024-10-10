@@ -18,7 +18,7 @@ td, th {
 
 .container	{
 	width: 960px;
-	margin: 10px;
+	margin: 0 auto;
 	overflow: hidden;
 }
 
@@ -42,12 +42,12 @@ td, th {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	horizontal-align: center;
+	vertical-align: center;
 }
 
 #main-navbar ul li a	{
 	display: block;
-	padding: 10px 20 px;
+	padding: 10px 20px;
 	color: #FFFAF0;
 	text-decoration: none;
 	font-family: "Lucida Console", "Courier New", "monospace";
