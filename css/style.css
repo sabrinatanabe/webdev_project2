@@ -3,8 +3,8 @@ td, th {
   }
   
 #main-header	{
-/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff7cd8+19,fd89d7+58,fcecfc+99 */
-background: linear-gradient(to bottom,  #ff7cd8 19%,#fd89d7 58%,#fcecfc 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,ededed+1,ededed+1,f3f3f3+40,ffffff+100 */
+background: linear-gradient(to bottom,  #ffffff 0%,#ededed 1%,#ededed 1%,#f3f3f3 40%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 text-align: center;
 font-family: "Lucida Console", "Courier New", "monospace;
 height: 80px;
