@@ -2,3 +2,63 @@ td, th {
 	border: 1px solid;
   }
   
+#main-header	{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff7cd8+0,fba6e1+50,fcecfc+100 */
+background: linear-gradient(to bottom, #ff7cd8 0%,#fba6e1 50%,#fcecfc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+Background:
+background:
+filter:
+
+height: 80px;
+}
+
+#company-name	{
+	font-size: 30px;
+}
+
+.container	{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#main-navbar	{
+	background-color: pink;
+}  
+
+#navbar-container	{
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+
+#main-navbar	{
+	overflow: hidden;
+}
+
+#main-navbar ul	{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	vertical-align: top;
+}
+
+#main-navbar ul li a	{
+	display: block;
+	padding: 10px 20 px;
+	color: #FFFAF0;
+	text-decoration: none;
+}
+
+#main-navbar ul li a:hover	{
+	text-decoration: underline;
+}
+
+#content-wrapper	{
+	background-color: #aaa;
+}
+
+#main-navbar #onpage	{
+	background-color: red;
+}
