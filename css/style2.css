@@ -1,0 +1,65 @@
+td, th {
+	border: 1px solid;
+  }
+  
+#main-header	{
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,ededed+1,ededed+1,f3f3f3+40,ffffff+100 */
+background: linear-gradient(to bottom,  #ffffff 0%,#ededed 1%,#ededed 1%,#f3f3f3 40%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+text-align: center;
+font-family: "Lucida Console", "Courier New", "monospace;
+height: 80px;
+}
+
+#company-name	{
+	font-size: 30px;
+	font-family: "Lucida Console", "Courier New", "monospace;
+}
+
+.container	{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#main-navbar	{
+	background-color: #F9BBE6;
+}  
+
+#navbar-container	{
+	width: 100%;
+	position: relative;
+	text-align: center;
+	font-family: "Lucida Console", "Courier New", "monospace";
+}
+
+#main-navbar	{
+	overflow: hidden;
+}
+
+#main-navbar ul	{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	horizontal-align: top;
+}
+
+#main-navbar ul li a	{
+	display: block;
+	padding: 10px 20 px;
+	color: #FFFAF0;
+	text-decoration: none;
+	font-family: "Lucida Console", "Courier New", "monospace";
+}
+
+#main-navbar ul li a:hover	{
+	text-decoration: underline;
+}
+
+#content-wrapper	{
+	background-color: #FCEFF8;
+}
+
+#main-navbar #onpage	{
+	background-color: #F7D2EB;
+}
