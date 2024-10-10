@@ -64,6 +64,10 @@ height: 80px;
 	background-color: #F7D2EB;
 }
 
+#main-content	{
+	font-family: "Lucida Console", "Courier New", "monospace";
+}
+
 .center	{
 	display: block;
 	margin-left: auto;
