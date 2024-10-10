@@ -28,6 +28,7 @@ height: 80px;
 	width: 100%;
 	position: relative;
 	text-align: center;
+	font-family: "Lucida Console", "Courier New", "monospace";
 }
 
 #main-navbar	{
@@ -47,6 +48,7 @@ height: 80px;
 	padding: 10px 20 px;
 	color: #FFFAF0;
 	text-decoration: none;
+	font-family: "Lucida Console", "Courier New", "monospace";
 }
 
 #main-navbar ul li a:hover	{
