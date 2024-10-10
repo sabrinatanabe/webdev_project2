@@ -41,7 +41,7 @@ td, th {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	vertical-align: top;
+	justify-content: center; 
 }
 
 #main-navbar ul li a	{
