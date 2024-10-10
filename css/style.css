@@ -63,3 +63,10 @@ height: 80px;
 #main-navbar #onpage	{
 	background-color: #F7D2EB;
 }
+
+.center	{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%; 
+}
