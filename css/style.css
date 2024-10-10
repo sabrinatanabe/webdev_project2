@@ -12,6 +12,7 @@ height: 80px;
 
 #company-name	{
 	font-size: 30px;
+	font-family: "Lucida Console", "Courier New", "monospace;
 }
 
 .container	{
@@ -40,7 +41,7 @@ height: 80px;
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	vertical-align: top;
+	horizontal-align: top;
 }
 
 #main-navbar ul li a	{
