@@ -3,8 +3,8 @@ td, th {
   }
   
 #main-header	{
-/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fcecfc+0,fba6e1+92,ff7cd8+100,fd89d7+100,ff7cd8+100 */
-background: linear-gradient(to bottom, #fcecfc 0%,#fba6e1 92%,#ff7cd8 100%,#fd89d7 100%,#ff7cd8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ff7cd8+19,fd89d7+58,fcecfc+99 */
+background: linear-gradient(to bottom,  #ff7cd8 19%,#fd89d7 58%,#fcecfc 99%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 text-align: center;
 filter: 
 
@@ -55,7 +55,7 @@ height: 80px;
 }
 
 #content-wrapper	{
-	background-color: #F9E0F0;
+	background-color: #FCEFF8;
 }
 
 #main-navbar #onpage	{
