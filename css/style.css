@@ -5,8 +5,8 @@ td, th {
 #main-header	{
 /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fcecfc+0,fba6e1+92,ff7cd8+100,fd89d7+100,ff7cd8+100 */
 background: linear-gradient(to bottom, #fcecfc 0%,#fba6e1 92%,#ff7cd8 100%,#fd89d7 100%,#ff7cd8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-background:
-filter:
+text-align: center;
+filter: 
 
 height: 80px;
 }
