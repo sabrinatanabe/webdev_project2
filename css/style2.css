@@ -41,17 +41,18 @@ height: 80px;
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	horizontal-align: top;
 }
 
 #main-navbar ul li a	{
 	display: block;
 	padding: 10px 20 px;
+	text-align: center;
 	color: #FFFAF0;
 	text-decoration: none;
 	font-family: "Lucida Console", "Courier New", "monospace";
 }
 
+/* Change the link color to #FFFAF0 on hover */
 #main-navbar ul li a:hover	{
 	text-decoration: underline;
 }
