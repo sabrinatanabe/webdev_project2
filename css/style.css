@@ -42,7 +42,7 @@ td, th {
 	margin: 0;
 	padding: 0;
 	display: inline-block;
-	vertical-align: center;
+	vertical-align: top;
 }
 
 #main-navbar ul li a	{
